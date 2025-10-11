@@ -14,30 +14,21 @@
 - 🧠 Multimodal Large Language Models (MLLMs)
 - 🤖 AI Agent Systems & Long-Term Memory
 - 🧩 Computer Vision, NLP, and MLOps
-
 ## 🛠️ Tech Stack
-
 ### 💻 Programming Languages
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat\&logo=java\&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat\&logo=c%2b%2b\&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat\&logo=gnu-bash\&logoColor=white)
-
 ---
-
 ### 🧠 ML/DL Frameworks
-
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-Transformers-0052CC?style=flat\&logo=huggingface\&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
-
 ---
-
 ### ⚙️ MLOps & Deployment
-
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat\&logo=github-actions\&logoColor=white)
@@ -45,35 +36,15 @@
 ![MLflow](https://img.shields.io/badge/-MLflow-0072C6?style=flat\&logo=mlflow\&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/-W\&B-FFBE00?style=flat\&logo=wandb\&logoColor=black)
 ![DVC](https://img.shields.io/badge/-DVC-945DD6?style=flat\&logo=dvc\&logoColor=white)
-
 ---
-
 ### 🧠 AI Agents & LLM Tools
-
 ![LangChain](https://img.shields.io/badge/-LangChain-2C8EBB?style=flat\&logo=data-bricks\&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat\&logo=openai\&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/-Google%20AI-4285F4?style=flat\&logo=google\&logoColor=white)
 ![LLamaIndex](https://img.shields.io/badge/-LLamaIndex-4B32C3?style=flat\&logo=llama\&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/-AutoGen-1E90FF?style=flat\&logo=ray\&logoColor=white)
 
----
 
-### 🗄️ Databases & Vector Stores
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![Pinecone](https://img.shields.io/badge/-Pinecone-0052CC?style=flat\&logo=pinecone\&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-7B68EE?style=flat\&logo=chromadb\&logoColor=white)
-![FAISS](https://img.shields.io/badge/-FAISS-008080?style=flat\&logo=vector\&logoColor=white)
-
----
-
-### 🧰 Data & Automation
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-8BC34A?style=flat)
-![Scrapy](https://img.shields.io/badge/-Scrapy-118811?style=flat)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat\&logo=selenium\&logoColor=white)
 
 
 

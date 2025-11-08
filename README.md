@@ -10,11 +10,10 @@
 
 ## 🔬 Research Interests
 
-- 🎞️ Text-to-Motion Generation, Diffusion Models
+- 🎞️ Text-to-Motion Generation, Diffusion Models, robotic
 - 🧠 Multimodal Large Language Models (MLLMs)
 - 🤖 AI Agent Systems & Long-Term Memory
 - 🧩 Computer Vision, NLP, and MLOps
-
 
 ---
 
@@ -31,7 +30,6 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/doanh-l%C3%AA-thi%C3%AAn-32b5321a5/)
 - 📧 Email: lethiendoanh.work@gmail.com  
-- 🧪 [Research on CEUR](https://ceur-ws.org/Vol-3658/paper9.pdf)
 
 ---
 
